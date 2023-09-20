@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abir Hasan Al-amin</h1>
 <h3 align="center">Passionate Computer Science and Engineering Student from Dhaka, Bangladesh</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/sl4dGvU-bBYAAAAM/scaler-create-impact.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abir-hasan-al-amin&label=Profile%20views&color=0e75b6&style=flat" alt="abir-hasan-al-amin" /> </p>
-
+<br>
 - 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **hasan.alamin.abir@gmail.com**
