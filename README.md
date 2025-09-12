@@ -3,7 +3,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/sl4dGvU-bBYAAAAM/scaler-create-impact.gif">
 
-- 🌱 I’m currently learning **NodeJS Express MongoDB**
+- 🌱 I’m currently learning **Nestjs**
 
 - 📫 How to reach me **hasan.alamin.abir@gmail.com**
 
